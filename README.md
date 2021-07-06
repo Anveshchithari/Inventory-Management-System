@@ -17,4 +17,7 @@ Design a web application related to footwear, where a user needs to maintain his
 ### Output Screens
 Home page: Displays stock in the inventory
 
+![Output scene](https://user-images.githubusercontent.com/72203536/124599120-f1df7380-de82-11eb-9058-2a7c5ddae4f3.jpg)
+
+
 
