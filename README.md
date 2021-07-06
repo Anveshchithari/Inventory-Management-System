@@ -24,6 +24,8 @@ Home page: Displays stock in the inventory
 ![update stock2](https://user-images.githubusercontent.com/72203536/124599541-661a1700-de83-11eb-9928-aad4bca7c537.jpg)
 ### Product Sales
 
+![product sales](https://user-images.githubusercontent.com/72203536/124600167-12f49400-de84-11eb-9e14-8e4b0c298925.jpg)
+
 
 
 
