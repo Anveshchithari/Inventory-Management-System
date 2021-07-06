@@ -20,7 +20,8 @@ Home page: Displays stock in the inventory
 ![Output scene](https://user-images.githubusercontent.com/72203536/124599120-f1df7380-de82-11eb-9058-2a7c5ddae4f3.jpg)
 ### Update existing stock details
 
-![product sales](https://user-images.githubusercontent.com/72203536/124599321-2bb07a00-de83-11eb-8139-96287e972ac5.jpg)
+![update stock](https://user-images.githubusercontent.com/72203536/124600339-3b7c8e00-de84-11eb-9e4e-3772087b3152.jpg)
+
 ![update stock2](https://user-images.githubusercontent.com/72203536/124599541-661a1700-de83-11eb-9928-aad4bca7c537.jpg)
 ### Product Sales
 
