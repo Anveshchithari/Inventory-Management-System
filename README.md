@@ -12,3 +12,4 @@ $ node server1.js       -runs on 9000
 # Get started with our project
 Design a web application related to footwear, where a user needs to maintain his inventory system in order to implement CRUD operations.
 ### File hierarchy of Inventory management system
+http://35.225.164.18/codelabs/Dynami_website/img/8010907ca0e86ce0.JPG
