@@ -14,4 +14,7 @@ Design a web application related to footwear, where a user needs to maintain his
 ### File hierarchy of Inventory management system
 
 ![flow diagram](https://user-images.githubusercontent.com/72203536/124598797-a4fb9d00-de82-11eb-9d89-01a7b1c1697e.jpg)
+### Output Screens
+Home page: Displays stock in the inventory
+
 
